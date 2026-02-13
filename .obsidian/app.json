@@ -1,0 +1,9 @@
+{
+  "tabSize": 4,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Explain/_assets",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Explain",
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true
+}
