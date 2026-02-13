@@ -4,6 +4,6 @@
   "attachmentFolderPath": "Explain/_assets",
   "newFileLocation": "folder",
   "newFileFolderPath": "Explain",
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "useMarkdownLinks": true
 }
