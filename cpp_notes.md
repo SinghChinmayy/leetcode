@@ -3,7 +3,8 @@
 
   v.insert(iterator, value);
 
-
+# insert element
+vector.insert(position_iterator, value);
   # pop element
 
   pop last element-> v.pop_back();
