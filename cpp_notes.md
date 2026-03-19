@@ -4,7 +4,9 @@
   v.insert(iterator, value);
 
 # insert element
-- vector.insert(position_iterator, value);
+- ```
+  vector.insert(position_iterator, value);
+  ```
 - Insert element at end
 - ```
   v.push_back(4);
