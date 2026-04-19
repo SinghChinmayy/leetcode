@@ -11,14 +11,10 @@
             "id": "1110be6926f99664",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CPP_DSA_Notes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CPP_DSA_Notes"
+              "title": "New tab"
             }
           }
         ]
@@ -182,26 +178,30 @@
   },
   "active": "60b07fcece7283b2",
   "lastOpenFiles": [
-    "CPP Codes/121. Best Time to Buy and Sell Stock.cpp",
-    "CPP Codes/509. Fibonacci Number.cpp",
+    "CPP_notes/Explain/_assets/Pasted image 20260416215940.png",
+    "CPP_notes/Explain/_assets/Pasted image 20260416215804.png",
+    "CPP_notes/Explain/_assets",
+    "CPP_notes/Explain",
+    "CPP_notes/CPP_DSA_Notes.md",
+    "Leetcode_Codes/9. Palindrome Number.cpp",
+    "Leetcode_Codes/70. Climbing Stairs.cpp",
+    "Leetcode_Codes/7. Reverse Integer.md",
+    "Leetcode_Codes/7. Reverse Integer.cpp",
+    "Leetcode_Codes/509. Fibonacci Number.cpp",
+    "Leetcode_Codes/50. Pow(x, n).cpp",
+    "Leetcode_Codes/485. Max Consecutive Ones.cpp",
+    "Leetcode_Codes/300. longest increasing subsequence.cpp",
+    "Leetcode_Codes/300. Longest Increasing Subsequence.md",
+    "Leetcode_Codes/283. Move Zeroes.cpp",
     "CPP_notes/DP/Basics && Q.300.md",
     "CPP_DSA_Notes.md",
     "README.md",
     "CPP_notes/0. Basics and Maths/basics.md",
     "CPP_notes/std::_library/notes_std::vector.md",
-    "CPP Codes/9. Palindrome Number.cpp",
     "CPP Codes/7. Reverse Integer.md",
-    "CPP Codes/7. Reverse Integer.cpp",
     "Explain/_assets/Pasted image 20260416215940.png",
     "Explain/_assets/Pasted image 20260416215804.png",
-    "Explain/_assets",
-    "Explain",
-    "CPP_notes/0. Basics and Maths",
     "CPP Codes/300. Longest Increasing Subsequence.md",
-    "CPP_notes/DP",
-    "CPP_notes/std::_library",
-    "CPP_notes/notes_std::vector.md",
-    "CPP_notes",
-    "CPP Codes/70. Climbing Stairs.cpp"
+    "CPP_notes/notes_std::vector.md"
   ]
 }

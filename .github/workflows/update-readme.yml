@@ -1,0 +1,32 @@
+name: Update README with Solved Problems
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'Leetcode_Codes/**'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Generate problem index
+      run: python .github/scripts/generate_index.py
+      
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git diff --quiet && git diff --staged --quiet || (git commit -m "docs: auto-update solved problems index" && git push)
