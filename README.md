@@ -1,8 +1,9 @@
 # LeetCode Solutions & Notes
-
 [![LeetCode Stats](https://img.shields.io/badge/LeetCode-Profile-blue?style=flat&logo=leetcode)](https://leetcode.com/u/SinghChinmayy/)
 
-**LeetCode Profile:** [@SinghChinmayy](https://leetcode.com/u/SinghChinmayy/)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/SinghChinmayy?theme=dark&ext=heatmap" alt="LeetCode Heatmap" />
+</p>
 
 This repository contains my solutions to LeetCode problems along with comprehensive notes on Data Structures and Algorithms.
 
@@ -11,7 +12,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 - [Solved Problems](#solved-problems)
 - [Notes & Resources](#notes--resources)
 
-## Solved Problems
+## Available Solutions
 
 | # | Problem | Difficulty | Solution |
 |---|---------|-----------|----------|
