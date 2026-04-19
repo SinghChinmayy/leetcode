@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPP_notes/0. Basics and Maths/basics.md",
+                "file": "CPP_DSA_Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "basics"
+              "title": "CPP_DSA_Notes"
             }
           }
         ]
@@ -140,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CPP_DSA_Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CPP_DSA_Notes"
             }
           },
           {
@@ -159,12 +160,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,26 +180,28 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "1110be6926f99664",
+  "active": "60b07fcece7283b2",
   "lastOpenFiles": [
+    "CPP Codes/121. Best Time to Buy and Sell Stock.cpp",
+    "CPP Codes/509. Fibonacci Number.cpp",
+    "CPP_notes/DP/Basics && Q.300.md",
+    "CPP_DSA_Notes.md",
+    "README.md",
+    "CPP_notes/0. Basics and Maths/basics.md",
+    "CPP_notes/std::_library/notes_std::vector.md",
+    "CPP Codes/9. Palindrome Number.cpp",
     "CPP Codes/7. Reverse Integer.md",
     "CPP Codes/7. Reverse Integer.cpp",
-    "CPP_notes/0. Basics and Maths/basics.md",
     "Explain/_assets/Pasted image 20260416215940.png",
     "Explain/_assets/Pasted image 20260416215804.png",
     "Explain/_assets",
     "Explain",
-    "README.md",
     "CPP_notes/0. Basics and Maths",
-    "CPP_notes/DP/Basics && Q.300.md",
     "CPP Codes/300. Longest Increasing Subsequence.md",
     "CPP_notes/DP",
-    "CPP_notes/std::_library/notes_std::vector.md",
     "CPP_notes/std::_library",
     "CPP_notes/notes_std::vector.md",
     "CPP_notes",
-    "CPP Codes/70. Climbing Stairs.cpp",
-    "CPP Codes/50. Pow(x, n).cpp",
-    "CPP Codes/485. Max Consecutive Ones.cpp"
+    "CPP Codes/70. Climbing Stairs.cpp"
   ]
 }
