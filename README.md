@@ -9,7 +9,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 
 ## Table of Contents
 
-- [Solved Problems](#solved-problems)
+- [Available Solutions](#available-solutions)
 - [Notes & Resources](#notes--resources)
 
 ## Available Solutions
@@ -22,7 +22,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 | 70 | Climbing Stairs | Easy | [C++](./Leetcode_Codes/70.%20Climbing%20Stairs.cpp) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [C++](./Leetcode_Codes/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp) |
 | 136 | Single Number | Easy | [C++](./Leetcode_Codes/136.%20Single%20Number.cpp) |
-| 176 | Second Highest Salary | Medium | [SQL](./Leetcode_Codes/176.%20Second%20Highest%20Salary.CPP) |
+| 176 | Second Highest Salary | Medium | [PostgreSQL](./Leetcode_Codes/176.%20Second%20Highest%20Salary.CPP) |
 | 189 | Rotate Array | Medium | [C++](./Leetcode_Codes/189.%20Rotate%20Array.cpp) |
 | 283 | Move Zeroes | Easy | [C++](./Leetcode_Codes/283.%20Move%20Zeroes.cpp) |
 | 300 | Longest Increasing Subsequence | Medium | [C++](./Leetcode_Codes/300.%20longest%20increasing%20subsequence.cpp) |
@@ -59,4 +59,5 @@ This repository contains my solutions to LeetCode problems along with comprehens
   - Basic Maths
   - STD Library (vectors, pointers, etc.)
   - Sliding Window
-  - Dynamic Programming 
+  - Dynamic Programming
+  - *(and more...)* 
