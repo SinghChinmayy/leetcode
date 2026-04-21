@@ -9,32 +9,16 @@ This repository contains my solutions to LeetCode problems along with comprehens
 
 ## Table of Contents
 
-- [Available Solutions](#available-solutions)
+- [Solved Problems](#solved-problems)
 - [Notes & Resources](#notes--resources)
-
-## Available Solutions
-
-| # | Problem | Difficulty | Solution |
-|---|---------|-----------|----------|
-| 7 | Reverse Integer | Easy | [C++](./Leetcode_Codes/7.%20Reverse%20Integer.cpp) |
-| 9 | Palindrome Number | Easy | [C++](./Leetcode_Codes/9.%20Palindrome%20Number.cpp) |
-| 50 | Pow(x, n) | Medium | [C++](./Leetcode_Codes/50.%20Pow(x,%20n).cpp) |
-| 70 | Climbing Stairs | Easy | [C++](./Leetcode_Codes/70.%20Climbing%20Stairs.cpp) |
-| 121 | Best Time to Buy and Sell Stock | Easy | [C++](./Leetcode_Codes/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp) |
-| 136 | Single Number | Easy | [C++](./Leetcode_Codes/136.%20Single%20Number.cpp) |
-| 176 | Second Highest Salary | Medium | [PostgreSQL](./Leetcode_Codes/176.%20Second%20Highest%20Salary.CPP) |
-| 189 | Rotate Array | Medium | [C++](./Leetcode_Codes/189.%20Rotate%20Array.cpp) |
-| 283 | Move Zeroes | Easy | [C++](./Leetcode_Codes/283.%20Move%20Zeroes.cpp) |
-| 300 | Longest Increasing Subsequence | Medium | [C++](./Leetcode_Codes/300.%20longest%20increasing%20subsequence.cpp) |
-| 485 | Max Consecutive Ones | Easy | [C++](./Leetcode_Codes/485.%20Max%20Consecutive%20Ones.cpp) |
-| 509 | Fibonacci Number | Easy | [C++](./Leetcode_Codes/509.%20Fibonacci%20Number.cpp) |
-
-**Total Problems Solved:** 12
 
 ## Solved Problems
 
+### Arrays
+
 | # | Problem | Difficulty | Solution |
 |---|---------|-----------|----------|
+<<<<<<< HEAD
 | 3 | Longest Substring Without Repeating Characters_unoptimized | Unknown | [C++](./Leetcode_Codes/3.%20Longest%20Substring%20Without%20Repeating%20Characters_unoptimized.cpp) |
 | 7 | Reverse Integer | Easy | [C++](./Leetcode_Codes/7.%20Reverse%20Integer.cpp) |
 | 9 | Palindrome Number | Easy | [C++](./Leetcode_Codes/9.%20Palindrome%20Number.cpp) |
@@ -48,9 +32,54 @@ This repository contains my solutions to LeetCode problems along with comprehens
 | 300 | longest increasing subsequence | Medium | [C++](./Leetcode_Codes/300.%20longest%20increasing%20subsequence.cpp) |
 | 485 | Max Consecutive Ones | Easy | [C++](./Leetcode_Codes/485.%20Max%20Consecutive%20Ones.cpp) |
 | 509 | Fibonacci Number | Easy | [C++](./Leetcode_Codes/509.%20Fibonacci%20Number.cpp) |
+=======
+| 121 | Best Time to Buy and Sell Stock | Easy | [C++](./Leetcode_Codes/Arrays/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cpp) |
+| 189 | Rotate Array | Medium | [C++](./Leetcode_Codes/Arrays/189.%20Rotate%20Array.cpp) |
+| 283 | Move Zeroes | Easy | [C++](./Leetcode_Codes/Arrays/283.%20Move%20Zeroes.cpp) |
+| 485 | Max Consecutive Ones | Easy | [C++](./Leetcode_Codes/Arrays/485.%20Max%20Consecutive%20Ones.cpp) |
+>>>>>>> 29641a7 ( | backup->Wed Apr 22 01:49:34 AM IST 2026)
 
+### Bit Manipulation
 
-**Total Problems Solved:** 13
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| 136 | Single Number | Easy | [C++](./Leetcode_Codes/Bit%20Manipulation/136.%20Single%20Number.cpp) |
+
+### Database
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| 176 | Second Highest Salary | Medium | [SQL](./Leetcode_Codes/Database/176.%20Second%20Highest%20Salary.sql) |
+
+### Dynamic Programming
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| 70 | Climbing Stairs | Easy | [C++](./Leetcode_Codes/Dynamic%20Programming/70.%20Climbing%20Stairs.cpp) |
+| 300 | longest increasing subsequence | Medium | [C++](./Leetcode_Codes/Dynamic%20Programming/300.%20longest%20increasing%20subsequence.cpp) |
+| 509 | Fibonacci Number | Easy | [C++](./Leetcode_Codes/Dynamic%20Programming/509.%20Fibonacci%20Number.cpp) |
+
+### Math
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| 7 | Reverse Integer | Easy | [C++](./Leetcode_Codes/Math/7.%20Reverse%20Integer.cpp) |
+| 9 | Palindrome Number | Easy | [C++](./Leetcode_Codes/Math/9.%20Palindrome%20Number.cpp) |
+| 50 | Pow(x, n) | Medium | [C++](./Leetcode_Codes/Math/50.%20Pow(x,%20n).cpp) |
+
+### Sliding Window
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| 3 | Longest Substring Without Repeating Characters_unoptimized | Medium | [C++](./Leetcode_Codes/Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters_unoptimized.cpp) |
+
+### Trees
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| 104 | Maximum Depth of Binary Tree | Easy | [C++](./Leetcode_Codes/Trees/104.%20Maximum%20Depth%20of%20Binary%20Tree.cpp) |
+
+**Total Problems Solved:** 14
 
 ## Notes & Resources
 
