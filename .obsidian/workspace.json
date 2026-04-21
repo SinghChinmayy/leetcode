@@ -136,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPP_DSA_Notes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CPP_DSA_Notes"
+              "title": "Outline"
             }
           },
           {
@@ -178,6 +177,8 @@
   },
   "active": "60b07fcece7283b2",
   "lastOpenFiles": [
+    "Leetcode_Codes/ Code Testcase Testcase Test Result 3. Longest Substring Without Repeating Characters.cpp",
+    "CPP_DSA_Notes.md",
     "CPP_notes/Explain/_assets/Pasted image 20260416215940.png",
     "CPP_notes/Explain/_assets/Pasted image 20260416215804.png",
     "CPP_notes/Explain/_assets",
@@ -194,7 +195,6 @@
     "Leetcode_Codes/300. Longest Increasing Subsequence.md",
     "Leetcode_Codes/283. Move Zeroes.cpp",
     "CPP_notes/DP/Basics && Q.300.md",
-    "CPP_DSA_Notes.md",
     "README.md",
     "CPP_notes/0. Basics and Maths/basics.md",
     "CPP_notes/std::_library/notes_std::vector.md",
