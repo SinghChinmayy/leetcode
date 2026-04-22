@@ -63,8 +63,9 @@ This repository contains my solutions to LeetCode problems along with comprehens
 |---|---------|-----------|----------|
 | 104 | Maximum Depth of Binary Tree | Easy | [C++](./Leetcode_Codes/Trees/104.%20Maximum%20Depth%20of%20Binary%20Tree.cpp) |
 | 226 | Invert Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/226.%20Invert%20Binary%20Tree.cpp) |
+| 543 | Diameter of Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp) |
 
-**Total Problems Solved:** 15
+**Total Problems Solved:** 16
 
 ## Notes & Resources
 
