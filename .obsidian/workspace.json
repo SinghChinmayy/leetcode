@@ -177,6 +177,8 @@
   },
   "active": "60b07fcece7283b2",
   "lastOpenFiles": [
+    "Leetcode_Codes/Trees/543. Diameter of Binary Tree.cpp",
+    "Leetcode_Codes/Trees/543. Diameter of Binary Tree",
     "Leetcode_Codes/Trees/226. Invert Binary Tree.cpp",
     "Leetcode_Codes/ Code Testcase Testcase Test Result 3. Longest Substring Without Repeating Characters.cpp",
     "CPP_DSA_Notes.md",
@@ -191,8 +193,6 @@
     "Leetcode_Codes/7. Reverse Integer.cpp",
     "Leetcode_Codes/509. Fibonacci Number.cpp",
     "Leetcode_Codes/50. Pow(x, n).cpp",
-    "Leetcode_Codes/485. Max Consecutive Ones.cpp",
-    "Leetcode_Codes/300. longest increasing subsequence.cpp",
     "Leetcode_Codes/300. Longest Increasing Subsequence.md",
     "CPP_notes/DP/Basics && Q.300.md",
     "README.md",
