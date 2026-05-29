@@ -150,8 +150,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -171,28 +171,30 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "60b07fcece7283b2",
+  "active": "beb890bfe1330580",
   "lastOpenFiles": [
+    "Leetcode_Codes/Trees/94-binary-tree-inorder-traversal/binary-tree-inorder-traversal.cpp",
+    "Leetcode_Codes/Trees/94-binary-tree-inorder-traversal/README.md",
+    "Leetcode_Codes/Trees/94-binary-tree-inorder-traversal",
+    "Leetcode_Codes/Trees/144-binary-tree-preorder-traversal/README.md",
+    "Leetcode_Codes/Trees/144-binary-tree-preorder-traversal/binary-tree-preorder-traversal.cpp",
+    "Leetcode_Codes/Trees/144-binary-tree-preorder-traversal",
+    "Leetcode_Codes/Trees/102. Binary Tree Level Order Traversal.cpp",
+    "144-binary-tree-preorder-traversal/binary-tree-preorder-traversal.cpp",
+    "144-binary-tree-preorder-traversal/README.md",
+    "144-binary-tree-preorder-traversal",
+    "Leetcode_Codes/Trees/144. Binary Tree Preorder Traversal.cpp",
     "Leetcode_Codes/Trees/543. Diameter of Binary Tree.cpp",
     "Leetcode_Codes/Trees/543. Diameter of Binary Tree",
     "Leetcode_Codes/Trees/226. Invert Binary Tree.cpp",
-    "Leetcode_Codes/ Code Testcase Testcase Test Result 3. Longest Substring Without Repeating Characters.cpp",
     "CPP_DSA_Notes.md",
     "CPP_notes/Explain/_assets/Pasted image 20260416215940.png",
     "CPP_notes/Explain/_assets/Pasted image 20260416215804.png",
-    "CPP_notes/Explain/_assets",
-    "CPP_notes/Explain",
     "CPP_notes/CPP_DSA_Notes.md",
-    "Leetcode_Codes/9. Palindrome Number.cpp",
-    "Leetcode_Codes/70. Climbing Stairs.cpp",
     "Leetcode_Codes/7. Reverse Integer.md",
-    "Leetcode_Codes/7. Reverse Integer.cpp",
-    "Leetcode_Codes/509. Fibonacci Number.cpp",
-    "Leetcode_Codes/50. Pow(x, n).cpp",
     "Leetcode_Codes/300. Longest Increasing Subsequence.md",
     "CPP_notes/DP/Basics && Q.300.md",
     "README.md",
