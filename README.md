@@ -14,6 +14,12 @@ This repository contains my solutions to LeetCode problems along with comprehens
 
 ## Solved Problems
 
+### 73-set-matrix-zeroes
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| inf | set-matrix-zeroes | Unknown | [C++](./Leetcode_Codes/73-set-matrix-zeroes/set-matrix-zeroes.cpp) |
+
 ### Arrays
 
 | # | Problem | Difficulty | Solution |
@@ -66,7 +72,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 | 226 | Invert Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/226.%20Invert%20Binary%20Tree.cpp) |
 | 543 | Diameter of Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp) |
 
-**Total Problems Solved:** 17
+**Total Problems Solved:** 18
 
 ## Notes & Resources
 
