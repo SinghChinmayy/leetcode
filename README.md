@@ -20,6 +20,12 @@ This repository contains my solutions to LeetCode problems along with comprehens
 |---|---------|-----------|----------|
 | inf | pascals-triangle | Unknown | [C++](./Leetcode_Codes/118-pascals-triangle/pascals-triangle.cpp) |
 
+### 53-maximum-subarray
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| inf | maximum-subarray | Unknown | [C++](./Leetcode_Codes/53-maximum-subarray/maximum-subarray.cpp) |
+
 ### 73-set-matrix-zeroes
 
 | # | Problem | Difficulty | Solution |
@@ -78,7 +84,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 | 226 | Invert Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/226.%20Invert%20Binary%20Tree.cpp) |
 | 543 | Diameter of Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp) |
 
-**Total Problems Solved:** 19
+**Total Problems Solved:** 20
 
 ## Notes & Resources
 
