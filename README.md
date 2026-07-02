@@ -14,6 +14,12 @@ This repository contains my solutions to LeetCode problems along with comprehens
 
 ## Solved Problems
 
+### 1153-product-sales-analysis-i
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| inf | product-sales-analysis-i | Unknown | [SQL](./Leetcode_Codes/1153-product-sales-analysis-i/product-sales-analysis-i.sql) |
+
 ### 118-pascals-triangle
 
 | # | Problem | Difficulty | Solution |
@@ -114,7 +120,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 | 226 | Invert Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/226.%20Invert%20Binary%20Tree.cpp) |
 | 543 | Diameter of Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp) |
 
-**Total Problems Solved:** 25
+**Total Problems Solved:** 26
 
 ## Notes & Resources
 
