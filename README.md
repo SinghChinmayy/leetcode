@@ -26,6 +26,12 @@ This repository contains my solutions to LeetCode problems along with comprehens
 |---|---------|-----------|----------|
 | inf | article-views-i | Unknown | [SQL](./Leetcode_Codes/1258-article-views-i/article-views-i.sql) |
 
+### 1509-replace-employee-id-with-the-unique-identifier
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| inf | replace-employee-id-with-the-unique-identifier | Unknown | [SQL](./Leetcode_Codes/1509-replace-employee-id-with-the-unique-identifier/replace-employee-id-with-the-unique-identifier.sql) |
+
 ### 1827-invalid-tweets
 
 | # | Problem | Difficulty | Solution |
@@ -108,7 +114,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 | 226 | Invert Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/226.%20Invert%20Binary%20Tree.cpp) |
 | 543 | Diameter of Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp) |
 
-**Total Problems Solved:** 24
+**Total Problems Solved:** 25
 
 ## Notes & Resources
 
