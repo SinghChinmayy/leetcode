@@ -20,6 +20,12 @@ This repository contains my solutions to LeetCode problems along with comprehens
 |---|---------|-----------|----------|
 | inf | pascals-triangle | Unknown | [C++](./Leetcode_Codes/118-pascals-triangle/pascals-triangle.cpp) |
 
+### 1908-recyclable-and-low-fat-products
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| inf | recyclable-and-low-fat-products | Unknown | [SQL](./Leetcode_Codes/1908-recyclable-and-low-fat-products/recyclable-and-low-fat-products.sql) |
+
 ### 53-maximum-subarray
 
 | # | Problem | Difficulty | Solution |
@@ -84,7 +90,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 | 226 | Invert Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/226.%20Invert%20Binary%20Tree.cpp) |
 | 543 | Diameter of Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp) |
 
-**Total Problems Solved:** 20
+**Total Problems Solved:** 21
 
 ## Notes & Resources
 
