@@ -44,6 +44,12 @@ This repository contains my solutions to LeetCode problems along with comprehens
 |---|---------|-----------|----------|
 | inf | customer-who-visited-but-did-not-make-any-transactions | Unknown | [SQL](./Leetcode_Codes/1724-customer-who-visited-but-did-not-make-any-transactions/customer-who-visited-but-did-not-make-any-transactions.sql) |
 
+### 1801-average-time-of-process-per-machine
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| inf | average-time-of-process-per-machine | Unknown | [SQL](./Leetcode_Codes/1801-average-time-of-process-per-machine/average-time-of-process-per-machine.sql) |
+
 ### 1827-invalid-tweets
 
 | # | Problem | Difficulty | Solution |
@@ -132,7 +138,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 | 226 | Invert Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/226.%20Invert%20Binary%20Tree.cpp) |
 | 543 | Diameter of Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp) |
 
-**Total Problems Solved:** 28
+**Total Problems Solved:** 29
 
 ## Notes & Resources
 
