@@ -74,6 +74,12 @@ This repository contains my solutions to LeetCode problems along with comprehens
 |---|---------|-----------|----------|
 | inf | maximum-subarray | Unknown | [C++](./Leetcode_Codes/53-maximum-subarray/maximum-subarray.cpp) |
 
+### 577-employee-bonus
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| inf | employee-bonus | Unknown | [SQL](./Leetcode_Codes/577-employee-bonus/employee-bonus.sql) |
+
 ### 595-big-countries
 
 | # | Problem | Difficulty | Solution |
@@ -138,7 +144,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 | 226 | Invert Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/226.%20Invert%20Binary%20Tree.cpp) |
 | 543 | Diameter of Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp) |
 
-**Total Problems Solved:** 29
+**Total Problems Solved:** 30
 
 ## Notes & Resources
 
