@@ -80,6 +80,12 @@ This repository contains my solutions to LeetCode problems along with comprehens
 |---|---------|-----------|----------|
 | inf | valid-anagram | Unknown | [C++](./Leetcode_Codes/242-valid-anagram/valid-anagram.cpp) |
 
+### 49-group-anagrams
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| inf | group-anagrams | Unknown | [C++](./Leetcode_Codes/49-group-anagrams/group-anagrams.cpp) |
+
 ### 53-maximum-subarray
 
 | # | Problem | Difficulty | Solution |
@@ -162,7 +168,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 | 226 | Invert Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/226.%20Invert%20Binary%20Tree.cpp) |
 | 543 | Diameter of Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp) |
 
-**Total Problems Solved:** 33
+**Total Problems Solved:** 34
 
 ## Notes & Resources
 
