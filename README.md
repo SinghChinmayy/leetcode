@@ -44,6 +44,12 @@ This repository contains my solutions to LeetCode problems along with comprehens
 |---|---------|-----------|----------|
 | inf | replace-employee-id-with-the-unique-identifier | Unknown | [SQL](./Leetcode_Codes/1509-replace-employee-id-with-the-unique-identifier/replace-employee-id-with-the-unique-identifier.sql) |
 
+### 167-two-sum-ii-input-array-is-sorted
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| inf | two-sum-ii-input-array-is-sorted | Unknown | [C++](./Leetcode_Codes/167-two-sum-ii-input-array-is-sorted/two-sum-ii-input-array-is-sorted.cpp) |
+
 ### 1724-customer-who-visited-but-did-not-make-any-transactions
 
 | # | Problem | Difficulty | Solution |
@@ -168,7 +174,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 | 226 | Invert Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/226.%20Invert%20Binary%20Tree.cpp) |
 | 543 | Diameter of Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp) |
 
-**Total Problems Solved:** 34
+**Total Problems Solved:** 35
 
 ## Notes & Resources
 
