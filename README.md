@@ -20,6 +20,12 @@ This repository contains my solutions to LeetCode problems along with comprehens
 |---|---------|-----------|----------|
 | inf | same-tree | Unknown | [C++](./Leetcode_Codes/100-same-tree/same-tree.cpp) |
 
+### 1127-last-stone-weight
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| inf | last-stone-weight | Unknown | [C++](./Leetcode_Codes/1127-last-stone-weight/last-stone-weight.cpp) |
+
 ### 1153-product-sales-analysis-i
 
 | # | Problem | Difficulty | Solution |
@@ -198,7 +204,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 | 226 | Invert Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/226.%20Invert%20Binary%20Tree.cpp) |
 | 543 | Diameter of Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp) |
 
-**Total Problems Solved:** 39
+**Total Problems Solved:** 40
 
 ## Notes & Resources
 
