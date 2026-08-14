@@ -20,6 +20,12 @@ This repository contains my solutions to LeetCode problems along with comprehens
 |---|---------|-----------|----------|
 | inf | same-tree | Unknown | [C++](./Leetcode_Codes/100-same-tree/same-tree.cpp) |
 
+### 1014-k-closest-points-to-origin
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| inf | k-closest-points-to-origin | Unknown | [C++](./Leetcode_Codes/1014-k-closest-points-to-origin/k-closest-points-to-origin.cpp) |
+
 ### 1127-last-stone-weight
 
 | # | Problem | Difficulty | Solution |
@@ -204,7 +210,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 | 226 | Invert Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/226.%20Invert%20Binary%20Tree.cpp) |
 | 543 | Diameter of Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp) |
 
-**Total Problems Solved:** 40
+**Total Problems Solved:** 41
 
 ## Notes & Resources
 
