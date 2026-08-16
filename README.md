@@ -104,6 +104,12 @@ This repository contains my solutions to LeetCode problems along with comprehens
 |---|---------|-----------|----------|
 | inf | valid-parentheses | Unknown | [C++](./Leetcode_Codes/20-valid-parentheses/valid-parentheses.cpp) |
 
+### 206-reverse-linked-list
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| inf | reverse-linked-list | Unknown | [C++](./Leetcode_Codes/206-reverse-linked-list/reverse-linked-list.cpp) |
+
 ### 215-kth-largest-element-in-an-array
 
 | # | Problem | Difficulty | Solution |
@@ -222,7 +228,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 | 226 | Invert Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/226.%20Invert%20Binary%20Tree.cpp) |
 | 543 | Diameter of Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp) |
 
-**Total Problems Solved:** 43
+**Total Problems Solved:** 44
 
 ## Notes & Resources
 
