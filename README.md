@@ -140,6 +140,12 @@ This repository contains my solutions to LeetCode problems along with comprehens
 |---|---------|-----------|----------|
 | inf | valid-anagram | Unknown | [C++](./Leetcode_Codes/242-valid-anagram/valid-anagram.cpp) |
 
+### 338-counting-bits
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| inf | counting-bits | Unknown | [C++](./Leetcode_Codes/338-counting-bits/counting-bits.cpp) |
+
 ### 347-top-k-frequent-elements
 
 | # | Problem | Difficulty | Solution |
@@ -246,7 +252,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 | 226 | Invert Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/226.%20Invert%20Binary%20Tree.cpp) |
 | 543 | Diameter of Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp) |
 
-**Total Problems Solved:** 47
+**Total Problems Solved:** 48
 
 ## Notes & Resources
 
