@@ -98,6 +98,12 @@ This repository contains my solutions to LeetCode problems along with comprehens
 |---|---------|-----------|----------|
 | inf | invalid-tweets | Unknown | [SQL](./Leetcode_Codes/1827-invalid-tweets/invalid-tweets.sql) |
 
+### 190-reverse-bits
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| inf | reverse-bits | Unknown | [C++](./Leetcode_Codes/190-reverse-bits/reverse-bits.cpp) |
+
 ### 1908-recyclable-and-low-fat-products
 
 | # | Problem | Difficulty | Solution |
@@ -252,7 +258,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 | 226 | Invert Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/226.%20Invert%20Binary%20Tree.cpp) |
 | 543 | Diameter of Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp) |
 
-**Total Problems Solved:** 48
+**Total Problems Solved:** 49
 
 ## Notes & Resources
 
