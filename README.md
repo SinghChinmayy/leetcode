@@ -56,6 +56,12 @@ This repository contains my solutions to LeetCode problems along with comprehens
 |---|---------|-----------|----------|
 | inf | longest-consecutive-sequence | Unknown | [C++](./Leetcode_Codes/128-longest-consecutive-sequence/longest-consecutive-sequence.cpp) |
 
+### 141-linked-list-cycle
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| inf | linked-list-cycle | Unknown | [C++](./Leetcode_Codes/141-linked-list-cycle/linked-list-cycle.cpp) |
+
 ### 15-3sum
 
 | # | Problem | Difficulty | Solution |
@@ -264,7 +270,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 | 226 | Invert Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/226.%20Invert%20Binary%20Tree.cpp) |
 | 543 | Diameter of Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp) |
 
-**Total Problems Solved:** 50
+**Total Problems Solved:** 51
 
 ## Notes & Resources
 
