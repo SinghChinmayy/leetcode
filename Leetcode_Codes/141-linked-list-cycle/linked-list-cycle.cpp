@@ -12,23 +12,14 @@
 class Solution {
 public:
     bool hasCycle(ListNode* head) {
-        // handle empty case
-        if(head == nullptr)return false;
-        unordered_set<ListNode*>track;
-        bool found = 0;
-        while(head->next != nullptr && found == 0){
-            // if next element exists in the set=>loop
-            if( track.find(head->next) != track.end()){
-                found = 1;
-            }
-            // if next element dne=> keep going
-            if( track.find(head->next) == track.end()){
-                // update head and track set
-                track.insert(head);
-                head = head->next;
-            }
+        ListNode* fast = head;
+        ListNode* slow = head;
+
+        while(fast != nullptr && fast->next != nullptr){
+            slow = slow->next;
+            fast = fast->next->next;
+            if(fast == slow) return true;
         }
-        if(found) return true;
         return false;
     }
 };
