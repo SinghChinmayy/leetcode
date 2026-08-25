@@ -26,6 +26,12 @@ This repository contains my solutions to LeetCode problems along with comprehens
 |---|---------|-----------|----------|
 | inf | k-closest-points-to-origin | Unknown | [C++](./Leetcode_Codes/1014-k-closest-points-to-origin/k-closest-points-to-origin.cpp) |
 
+### 11-container-with-most-water
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| inf | container-with-most-water | Unknown | [C++](./Leetcode_Codes/11-container-with-most-water/container-with-most-water.cpp) |
+
 ### 1127-last-stone-weight
 
 | # | Problem | Difficulty | Solution |
@@ -270,7 +276,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 | 226 | Invert Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/226.%20Invert%20Binary%20Tree.cpp) |
 | 543 | Diameter of Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp) |
 
-**Total Problems Solved:** 51
+**Total Problems Solved:** 52
 
 ## Notes & Resources
 
