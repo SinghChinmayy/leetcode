@@ -140,6 +140,12 @@ This repository contains my solutions to LeetCode problems along with comprehens
 |---|---------|-----------|----------|
 | inf | valid-parentheses | Unknown | [C++](./Leetcode_Codes/20-valid-parentheses/valid-parentheses.cpp) |
 
+### 2026-merge-triplets-to-form-target-triplet
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| inf | merge-triplets-to-form-target-triplet | Unknown | [C++](./Leetcode_Codes/2026-merge-triplets-to-form-target-triplet/merge-triplets-to-form-target-triplet.cpp) |
+
 ### 206-reverse-linked-list
 
 | # | Problem | Difficulty | Solution |
@@ -276,7 +282,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 | 226 | Invert Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/226.%20Invert%20Binary%20Tree.cpp) |
 | 543 | Diameter of Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp) |
 
-**Total Problems Solved:** 52
+**Total Problems Solved:** 53
 
 ## Notes & Resources
 
