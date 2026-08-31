@@ -86,6 +86,12 @@ This repository contains my solutions to LeetCode problems along with comprehens
 |---|---------|-----------|----------|
 | inf | replace-employee-id-with-the-unique-identifier | Unknown | [SQL](./Leetcode_Codes/1509-replace-employee-id-with-the-unique-identifier/replace-employee-id-with-the-unique-identifier.sql) |
 
+### 153-find-minimum-in-rotated-sorted-array
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| inf | find-minimum-in-rotated-sorted-array | Unknown | [C++](./Leetcode_Codes/153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.cpp) |
+
 ### 155-min-stack
 
 | # | Problem | Difficulty | Solution |
@@ -288,7 +294,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 | 226 | Invert Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/226.%20Invert%20Binary%20Tree.cpp) |
 | 543 | Diameter of Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp) |
 
-**Total Problems Solved:** 54
+**Total Problems Solved:** 55
 
 ## Notes & Resources
 
