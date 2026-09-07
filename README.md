@@ -194,6 +194,12 @@ This repository contains my solutions to LeetCode problems along with comprehens
 |---|---------|-----------|----------|
 | inf | top-k-frequent-elements | Unknown | [C++](./Leetcode_Codes/347-top-k-frequent-elements/top-k-frequent-elements.cpp) |
 
+### 39-combination-sum
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| inf | combination-sum | Unknown | [C++](./Leetcode_Codes/39-combination-sum/combination-sum.cpp) |
+
 ### 49-group-anagrams
 
 | # | Problem | Difficulty | Solution |
@@ -300,7 +306,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 | 226 | Invert Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/226.%20Invert%20Binary%20Tree.cpp) |
 | 543 | Diameter of Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp) |
 
-**Total Problems Solved:** 56
+**Total Problems Solved:** 57
 
 ## Notes & Resources
 
