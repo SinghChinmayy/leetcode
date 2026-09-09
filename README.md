@@ -68,6 +68,12 @@ This repository contains my solutions to LeetCode problems along with comprehens
 |---|---------|-----------|----------|
 | inf | linked-list-cycle | Unknown | [C++](./Leetcode_Codes/141-linked-list-cycle/linked-list-cycle.cpp) |
 
+### 143-reorder-list
+
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| inf | reorder-list | Unknown | [C++](./Leetcode_Codes/143-reorder-list/reorder-list.cpp) |
+
 ### 15-3sum
 
 | # | Problem | Difficulty | Solution |
@@ -306,7 +312,7 @@ This repository contains my solutions to LeetCode problems along with comprehens
 | 226 | Invert Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/226.%20Invert%20Binary%20Tree.cpp) |
 | 543 | Diameter of Binary Tree | Unknown | [C++](./Leetcode_Codes/Trees/543.%20Diameter%20of%20Binary%20Tree.cpp) |
 
-**Total Problems Solved:** 57
+**Total Problems Solved:** 58
 
 ## Notes & Resources
 
